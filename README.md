@@ -1,4 +1,4 @@
-# Line-Follower-Robot-
+# Line-Follower-Robot-with-3-IR-sensor
 (3IR sensors, Arduino) 
 The Middle IR sensor follows the forward path and the left and right IR sensor follows the left and right respectively.
 This Line follower Robot is a very simple robot that follows a line,and my robot follows a black line. 
